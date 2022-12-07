@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @reshmaUnnikrisnan
+- 👋 Hi, I’m @reshmaUnnikrishnan
 - 👀 I’m interested in anything Technology, Tea &  Music
 - 🌱 I’m currently learning TCA architecture by PointFree
 - 💞️ I’m looking to collaborate on swift/ ios projects or libraries
